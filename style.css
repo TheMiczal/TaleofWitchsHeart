@@ -70,8 +70,9 @@ a, img, .overlay, input, textarea, .plan-wrap p, .filters .filter {
 body {
   font-size: 1em;
   line-height: 1.7em;
-  color: #1f1f1f;
+  color: #484f58;
   font-weight: normal;
+  background-color: black;
 }
 
 body, input, textarea {
